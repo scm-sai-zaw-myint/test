@@ -10,6 +10,6 @@ void add(int a, int b){
 }
 
 void main(){
-
-print(1 * 2);
+  print("Hello world");
+  print(1 * 2);
 }
