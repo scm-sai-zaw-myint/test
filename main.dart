@@ -10,7 +10,7 @@ abstract class Vehicle {
   set setModel(newModel) => model = newModel;
   set setColor(newColor) => color = newColor;
   get getModel => model;
-  get getColor => color; 
+  get getColor => color;
 }
 
 class Car extends Vehicle {
