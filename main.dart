@@ -45,7 +45,7 @@ void updateCar(Car car) {
   if (index < 0) {
     stderr.writeln('No car with id: ${car.id} found!');
     return null;
-  }
+  } 
   carList[index] = car;
 }
 
