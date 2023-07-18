@@ -24,7 +24,7 @@ class Car extends Vehicle {
     return '''{
   id: $id,
   model: $model,
-  color: $color
+  color: $color 
 }''';
   }
 }
